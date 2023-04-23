@@ -1,2 +1,2 @@
-# chito-chat
-# chat-app
+# chito-chat (Chat App)
+
